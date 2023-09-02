@@ -1,0 +1,12 @@
+04/06/2023 01:50:25 AM: INFO: SeleniumHelper: open_page: Opening page: https://www.facebook.com/login/
+04/06/2023 01:50:27 AM: INFO: SeleniumHelper: insert_text_in_input_field: Entering text: anshul123.io in locator: //input[@name='email']
+04/06/2023 01:50:28 AM: INFO: SeleniumHelper: insert_text_in_input_field: Entering text: anshul in locator: //input[@name='pass']
+04/06/2023 01:50:28 AM: INFO: SeleniumHelper: click: Clicking on: //button[@name='login']
+04/06/2023 01:50:28 AM: INFO: SeleniumHelper: wait_till_element_is_present: Waiting 10 seconds for element //a[contains(@href,'login/identify')] presence
+04/06/2023 01:50:30 AM: INFO: SeleniumHelper: wait_till_element_is_present: Element found
+04/06/2023 01:50:36 AM: INFO: SeleniumHelper: open_page: Opening page: https://www.facebook.com/login/
+04/06/2023 01:50:37 AM: INFO: SeleniumHelper: insert_text_in_input_field: Entering text: anshul12345.io in locator: //input[@name='email']
+04/06/2023 01:50:38 AM: INFO: SeleniumHelper: insert_text_in_input_field: Entering text: rahul in locator: //input[@name='pass']
+04/06/2023 01:50:38 AM: INFO: SeleniumHelper: click: Clicking on: //button[@name='login']
+04/06/2023 01:50:38 AM: INFO: SeleniumHelper: wait_till_element_is_present: Waiting 10 seconds for element //a[contains(@href,'login/identify')] presence
+04/06/2023 01:50:45 AM: INFO: SeleniumHelper: wait_till_element_is_present: Element found
